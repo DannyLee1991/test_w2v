@@ -6,3 +6,5 @@
 - 带入训练
 
 
+语料下载地址
+http://www.sogou.com/labs/resource/cs.php
